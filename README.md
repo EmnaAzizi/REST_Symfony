@@ -1,5 +1,5 @@
 # Rest_Symfony
- - Backend (Symfony API ): 
+ - Backend : 
      * User Authentication with FOSUserBundle
      * ManytoMany on the same entity
      * FOSUserBundle CRUD 
